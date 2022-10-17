@@ -1,37 +1,24 @@
 # KOF
 
 #### 介绍
-使用js写的拳皇小游戏
+使用`js`写的拳皇小游戏，目前仅有两个角色草薙京和不知火舞，仍在完善中
 
-#### 软件架构
-软件架构说明
+
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 下载安装包
+
+2. 打开一个可运行前端代码的编译器
+
+   
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 角色一： 使用“w”，“a”，“d”来操纵决定上左右，空格表示攻击
 
-#### 参与贡献
+2. 角色二： 使用“朝上的箭头”，“←”，“→”来操纵决定上左右，“enter”表示攻击
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+   
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
